@@ -20,13 +20,13 @@
      2. If it is not present, then append the item to list2
   4. print list2
 
-### ‘in’ Keyword in Python
+### 'in' Keyword in Python
 
-Before jumping to the code for the approach mentioned earlier, let's see what the **'in'** keyword is.
+Before jumping to the code for the approach mentioned earlier, let's see the **' in '** keyword.
 
 **'in'** is a keyword in Python that has two purposes:
 
-1. The **'in'** keyword is used to check if a value is present in a collection of items or a sequence (list, string, dict, set, etc.) or not.
+1. The **' in '** keyword is used to check if a value is present in a collection of items or a sequence (list, string, dict, set, etc.) or not.
 2. The **'in'** keyword is also used to iterate through a sequence of items in a for loop.
 
 ### Python Code To Solve The Previous Problem
@@ -46,7 +46,7 @@ for item in list1:
 
 print(list2)
 ```
-The above list (i.e., list2) does not contain any duplicate elements.
+The above list (i.e., list2) contains no duplicate elements.
 
 ## Sets in Python
 
@@ -93,11 +93,11 @@ A set in Python is defined using curly brackets, i.e., { }
 
 
 
-From above examples, you can notice that the elements in set are not in an order. Hence, set is an **unordered collection of elements.**
+From the above examples, you can notice that the elements in a set are not in order. Hence, a set is an **unordered collection of elements.**
 
 ## Accessing Items of a Set in Python
 
-We cannot access an item in set using the index of the elements.
+We cannot access an item in a set using the index of the elements.
 
 
 
@@ -110,12 +110,12 @@ We cannot access an item in set using the index of the elements.
 
 **How to get a single element at a time from a set?**
 
-We can take the help of 'for' loop to get a single element at a time from a set.
+We can take the help of the 'for' loop to get a single element at a time from a set.
 
 ![image.png](https://dphi-live.s3.amazonaws.com/media_uploads/image_47a598f8afef402ca03eccb39ccdb65c.png)
 
 
-One can also ask if a particular element is present in the set or not using **'in'** keyword.
+One can also ask if a particular element is present in the set or not using the **'in'** keyword.
 
 
 
