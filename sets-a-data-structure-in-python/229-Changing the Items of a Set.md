@@ -4,7 +4,7 @@
 
 * Removing items from a Set
 
-* Getting length of a Set
+* Getting the length of a Set
 
 * Union and Intersection of two Sets
 
@@ -32,7 +32,7 @@
 ![image.png](https://dphi-live.s3.amazonaws.com/media_uploads/image_749c464f9fda45af9d056141f1da6943.png)
 
 
-Note: update() method can also be used to add one item in a set. Try this by yourself!
+Note: update() method can also add one item to a set. Try this by yourself!
 
 ## Remove an Item from a Set
 
@@ -44,7 +44,7 @@ Note: update() method can also be used to add one item in a set. Try this by you
 
 ![image.png](https://dphi-live.s3.amazonaws.com/media_uploads/image_19139741b2fa4a23ac133c34064f2208.png)
 
-Note: If we try to remove an item which is not present in the set, remove() method will raise an error.
+Note: If we try to remove an item not present in the set, the remove() method will raise an error.
 
 
 
@@ -55,7 +55,7 @@ Note: If we try to remove an item which is not present in the set, remove() meth
 
 
 
-* If the item is not present in the set, discard() method will not raise an error.
+* If the item is not present in the set, the discard() method will not raise an error.
 
 
 
@@ -84,8 +84,8 @@ To determine the number of elements present in the set, we can use len() method.
 
 There are different methods to join two sets in Python.
 
-* **update()** method helps you add the items of one set to other.
-* **union()** method returns a new set containing all items appearing in either one set, or the other set or the both sets.
+* **update()** method helps you add the items of one set to another.
+* **union()** method returns a new set containing all items appearing in either one set, the other, or both sets.
 * **intersection()** method returns a new set containing all the common elements in the two sets.
 
 The update method has already been covered before. Let’s have a look at union and intersection now.
