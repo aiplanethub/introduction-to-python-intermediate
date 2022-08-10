@@ -9,7 +9,7 @@
 ## What are Comprehensions in Python?
 
 * Short and concise way to construct a sequence (for example, list, set, dict, etc.) using another sequence that is already defined.
-* Don’t worry this will be more clear when you see examples.
+* Don’t worry; this will be more clear when you see examples.
 
 ## Why Comprehensions?
 
@@ -79,7 +79,7 @@ Select all the even numbers from the given list of numbers.
 
 ### Do It Yourself
 
-* Using list comprehension find the length of all the strings present in the list:  
+* Using list comprehension, find the length of all the strings present in the list:  
 l = \[ 'abc', 'abcd', 'aabbccddd', 'eeeeeeaaaaaaa' ]
 * Try doing yourself before continuing.
 
