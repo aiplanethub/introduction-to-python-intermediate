@@ -8,7 +8,7 @@
 
 ### Earlier Function
 
-* Earlier we used the ‘def’ keyword to define a function
+* Earlier, we used the 'def' keyword to define a function
 * And in the body of the function, we added the logic of the function
 
 
@@ -34,14 +34,14 @@
 
 
 * A lambda function is an anonymous function. Now, what is an anonymous function? An anonymous function is a function that is defined without any name.
-* For example, we defined a function in the earlier topic which can be called whenever required with a name 'even()', the map function can be called using the name 'map()' while lambda functions cannot be called whenever required. We define the lambda function whenever required.
-* The lambda function can take any number of arguments but can have only one expression. Let's understand through examples.
+* For example, we defined a function in the earlier topic that can be called whenever required with a name 'even()', the map function can be called using the name' map()' while lambda functions cannot be called whenever required. We define the lambda function whenever needed.
+* The lambda function can take any number of arguments but only has one expression. Let's understand through examples.
 
 ### Syntax
 
 `lambda arguments: expression`
 
-For example, we had defined a function to calculate square of the number and used map function to get the list of square of numbers in a list.
+For example, we had defined a function to calculate the square of the number. We used the map function to get the list of squares of the numbers in a list.
 
 
 
@@ -73,7 +73,7 @@ For example, we had defined a function to calculate square of the number and use
 
 
 
-As mentioned earlier that lambda function can take any number of argument, let's calculate the element wise sum of two lists.
+As mentioned earlier, the lambda function can take any number of arguments. Let's calculate the element-wise sum of two lists.
 
 
 
