@@ -36,7 +36,7 @@ We come across the uses of sets in everyday life:
 * In the kitchen, the utensils are arranged, so the plates are kept separately, bowls are kept separately, etc.
 * In our bag, we keep our notebooks in one partition and all the textbooks in another partition.
 
-### Sets In Programming
+## Sets In Programming
 
 * Often, in programming, we want to have a collection of objects or elements where all the elements are unique.
 * For example, you want to store the registration numbers of students. Registration numbers cannot be duplicated. Here you will use the set data structure to store the data (i.e., registration numbers of students)
