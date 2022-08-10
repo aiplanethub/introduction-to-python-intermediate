@@ -29,8 +29,8 @@
 
 ## Break Keyword
 
-* If you want to stop the loop or come out of the loop, you can use the break keyword. This keyword helps you come out of both for and while loops.
-* For example, let's say you have a list of numbers, numbers = \[1, 3, 2, 5, 4, 6, 8]. Now you are interested in getting the first even number.
+* If you want to stop or come out of the loop, you can use the break keyword. This keyword helps you come out of both for and while loops.
+* Let's say you have a list of numbers, numbers = \[1, 3, 2, 5, 4, 6, 8]. Now you are interested in getting the first even number.
 
 ### For Loop & break Keyword
 
@@ -47,9 +47,9 @@
 
 
 
-* You were only interested in the first even number, but the above Python code has returned all the even numbers present in the list.
+* You were only interested in the first even number, but the above Python code has returned all the even numbers in the list.
 
-* Let’s see how the break keyword can help:
+* Let's see how the break keyword can help:
 
 
 
@@ -58,7 +58,7 @@
 
 
 
-* As you can observe, the first even number in the list is 2, and as the condition for the even number satisfies for the first time, we have printed the number and used the break keyword to come out of the loop.
+* The first even number in the list is 2. Once the condition is satisfied for the first time, we print the number and use the break keyword to come out of the loop.
 
 ### While Loop & break Keyword
 
@@ -72,13 +72,13 @@
 
 
 
-* As you can observe, the while loop was to be run till the value of i was less than 9, but here the output is only 1, 2 and 3.
-* This is because when the value of i was 3, the loop was discontinued i.e. the break keyword helped to break the while loop.
+* As you can observe, the while loop was to be run till the value of i was less than 9, but here the output is only 1, 2, and 3.
+* This is because when the value of i was 3, the loop was discontinued, i.e., the break keyword helped to break the while loop.
 
 ## Continue Keyword
 
-* The continue keyword helps you to skip or end the current iteration of both for and while loops and starts the next iteration. Well it will be more clear through examples in next slides.
-* For example, consider the list of numbers, numbers = \[1, 3, 2, 5, 4, 6, 8]. You want to skip the iteration if the current number is an even number, otherwise print the number.
+* The continue keyword helps you skip or end the current iteration of both for and while loops and starts the next iteration. It will be more apparent through the examples below.
+* For example, consider the list of numbers, numbers = \[1, 3, 2, 5, 4, 6, 8]. You want to skip the iteration if the current number is an even number, otherwise, print the number.
 
 ### For Loop & continue Keyword
 
