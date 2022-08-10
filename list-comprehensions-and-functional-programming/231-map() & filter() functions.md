@@ -5,7 +5,7 @@
 
 ## map() function
 
-Lists, tuples, sets, dictionaries, etc. are iterables. Watch this video till 2:44 only.
+Lists, tuples, sets, dictionaries, etc., are iterables. Watch this video till 2:44 only.
 
 
 
@@ -30,7 +30,7 @@ Lists, tuples, sets, dictionaries, etc. are iterables. Watch this video till 2:4
 
 * The **map()** is a built-in function in Python that takes two arguments:
   1. a function
-  2. an iterable (A sequence, or collection of elements like list, tuple, etc.)
+  2. an iterable (A sequence or collection of elements like list, tuple, etc.)
 * map() function applies a given function for each item in an iterable
 * Returns a list of the results.
 
@@ -41,7 +41,7 @@ Lists, tuples, sets, dictionaries, etc. are iterables. Watch this video till 2:4
 ### What is typecast?
 
 * The process of converting any object's type (i.e., the datatype) is called typecasting.
-* For example, converting a list ‘a’ to a tuple.  
+* For example, converting a list 'a' to a tuple.  
   a = [2, 4, 6]
   b = tuple(a) ===> This is typecasting
 
@@ -71,11 +71,11 @@ Lists, tuples, sets, dictionaries, etc. are iterables. Watch this video till 2:4
 
 * We can provide more than one iterable in the **map()** function.
 
-* Let's say we want to add elements of two lists index wise. For example,  
+* Let's say we want to add elements of two lists index-wise. For example,  
   list1 = \[2, 4, 6, 8, 10]  
   list2 = \[1, 3, 5, 7, 9]
 
-* And, we want to get \[3, 7, 11, 15, 19] - This is nothing but element-wise sum of the elements from the two lists.*
+* And, we want to get \[3, 7, 11, 15, 19] - This is nothing but the element-wise sum of the elements from the two lists.*
 
 
 
@@ -87,7 +87,7 @@ Lists, tuples, sets, dictionaries, etc. are iterables. Watch this video till 2:4
 
 ### Try It Yourself
 
-Consider you have a list, l1 = \[5, 7, 8, 10, 11, 13, 15, 16, 17, 19, 20]. Write a Python program and use map() function to get the even numbers from the list. Think ????. Do it by yourself before continuing.
+Consider you have a list, l1 = \[5, 7, 8, 10, 11, 13, 15, 16, 17, 19, 20]. Write a Python program and use the map() function to get the even numbers from the list. Think ????. Do it by yourself before continuing.
 
 
 
@@ -107,16 +107,16 @@ Consider you have a list, l1 = \[5, 7, 8, 10, 11, 13, 15, 16, 17, 19, 20]. Write
 
 
 
-* Can you observe the disadvantage of map here? While using map() function, if you have input of 10 elements in the iterable, the output will also consist of 10 elements. So we cannot filter out the elements in map().
+* Can you observe the disadvantage of map here? While using the map() function, if you have an input of 10 elements in the iterable, the output will also consist of 10 elements. So we cannot filter out the elements in map().
 * Here filter() function comes into picture.
 
 
 ## filter() function
 
-* The filter() is an in-built function in Python which works similar to map() function
-* It takes two parameters, first is a function and the second is an iterable
+* The filter() is an in-built function in Python that works similar to the map() function
+* It takes two parameters; the first is a function, and the second is an iterable
 * The function tests each element in the iterable to be true or not
-* If the function returns true for a particular element, the filter() function selects that element, else it skips that element.
+* If the function returns true for a particular element, the filter() function selects that element. Else it skips that element.
 
 ### Syntax
 
