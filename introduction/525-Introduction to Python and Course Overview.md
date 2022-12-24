@@ -1,3 +1,5 @@
+<!-- some of the contents in the website are having spanish or portugese language. please check it out. thank you!! -->
+
 ## Learning Objectives
 
 1. What is Python?
