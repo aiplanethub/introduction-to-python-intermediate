@@ -1,5 +1,30 @@
 ## Learning Objectives
 
+
+<!-- please check the first quiz section, where a question has no correct answer, and the question was
+ "Select the correct statements
+
+
+We can use add() method to add a single item in a set
+
+
+We can use add() method to add multiple items in a set
+
+
+We can use update() method to add multiple items in a set
+
+Your answer
+
+
+2 & 3 are correct
+
+
+-->
+
+
+
+
+
 * Adding items in a Set
 
 * Removing items from a Set
