@@ -63,5 +63,4 @@ It is an open-source, free-for-use tool with a vast community that contributed o
     * Decision-making in Python
     * Different loops in Python
     * Sets - A data structure in Python
-    * Functional Programming- Una estructura de datos en Python
-    * Programación Funcional
+    * Functional Programming
