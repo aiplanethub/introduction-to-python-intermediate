@@ -1,4 +1,5 @@
 ## Learning Objectives
+<!-- please add more and more exercises, apart from quizes,thank you -->
 
 * Lambda function
 
