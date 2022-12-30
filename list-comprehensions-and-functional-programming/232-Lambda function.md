@@ -1,4 +1,17 @@
 ## Learning Objectives
+<!--
+ 
+in question 3: no such scores list given
+3.
+Quiz - List Comprehensions and Functional Programming
+What will be the output of the given sets of code in Python?
+
+def is_A_student(score):
+    return score > 75
+over_75 = list(map(is_A_student, scores))
+print(over_75)
+
+-->
 
 * Lambda function
 
